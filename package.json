@@ -1,0 +1,14 @@
+{
+  "name": "generator-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  }
+}
